@@ -10,6 +10,12 @@ Year: 2026
 
 [View Certificate](./ibm_cert.pdf)
 
+Back-End Development with .NET
+Provider: Microsoft / Coursera
+Year: 2026
+
+[View Certificate](./Microsoft-Backend-Certificate.pdf)
+
 Prompt Like an Engineer
 Provider: Cisco Networking Academy / DICT-ITU DTC Initiative
 Year: 2026
